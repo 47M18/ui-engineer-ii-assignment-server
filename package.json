@@ -1,0 +1,22 @@
+{
+  "name": "ui-engineer-ii-assignment-server",
+  "version": "1.0.0",
+  "description": "REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/47M18/ui-engineer-ii-assignment-server.git"
+  },
+  "author": "Almir Cibra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/47M18/ui-engineer-ii-assignment-server/issues"
+  },
+  "homepage": "https://github.com/47M18/ui-engineer-ii-assignment-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
